@@ -1,7 +1,13 @@
 import Image from 'next/image'
+import Menu from './Menu/page'
+
+
 
 export default function Home() {
   return (
-    <h1>JOSE AFRANIO VOLPATO JUNIOR</h1>
-   )
+<>
+<Menu />
+</>
+
+    )
 }
