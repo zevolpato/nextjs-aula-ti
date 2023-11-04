@@ -1,6 +1,7 @@
 import Image from "next/image"
 import  MinhaImage from './1.png'
 
+
 export default function Produtos() {
     return(
 <section className="flex justify-center p-10 items-center">
