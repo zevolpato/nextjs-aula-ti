@@ -8,7 +8,7 @@ export default function Home() {
   return (
 <>
 <Menu />
-<Produtos />
+<Produtos nome1="Risoto" nome2="Nhoque"/>
 
 <Produtos />
 

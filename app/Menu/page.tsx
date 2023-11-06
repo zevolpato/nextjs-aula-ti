@@ -6,7 +6,7 @@ export default function Menu(){
         <p className="inline-flex items-center">BUG<HiBugAnt size={60}/> ANT</p>
         <ul className="flex items-center">
             <HiOutlineHome />
-            <li className="inline-flex pr-10 pl-2 items-center">  Menu</li>
+            <li className="inline-flex pr-10 pl-2 items-center">  HOME</li>
             <li className="inline-flex pr-10">Menu</li>
             <HiAcademicCap />
             <li className="inline-flex pr-10 pl-2 ">Menu</li>
